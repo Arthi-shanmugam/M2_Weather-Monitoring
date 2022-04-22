@@ -20,3 +20,5 @@ Weather forecasting is the application of science and tecnology to predict the s
 # ADVANTAGES
 * It can be used to save power.
 * Enhanced for monitoring & controlling of atmosphere condition.
+# CONCLUSION 
+A weather parameter monitoring system with a GUI has been successfully designed and developed using a low cost rainfall. wind speed, temperature and humidity sensors. The sensors are being handshake to an low cost rainfall, wind speed, temperature and humidity sensors. The sensors are being handshake to an ATMEGA 328P microcontroller while the ESP8266 Wi-Fi module facilities the communication link between the collected data and the GUI environment on the computer system created for data archiving. The developed microcontroller program written in C language was embedded into a microcontroller to give readings of rainfall, wind speed, temperature and humidity in an interval of every 10 minutes which is also a method of data collection in most Meteorological Agency Stations. With this system,easy access to database of information at any time when the need arises is guaranteed. 
